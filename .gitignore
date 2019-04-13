@@ -1,6 +1,7 @@
 target
 *.class
 
+*.attach*
 *.iml
 *.ipr
 *.iws
